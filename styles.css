@@ -10,7 +10,7 @@
 }
 
 body {
-  background: #585c68;
+  background: #585c680e;
   font-size: 14px;
   line-height: 22px;
   color: #555555;
@@ -32,6 +32,7 @@ body {
   height: auto;
   display: flex;
   margin: 50px auto;
+  box-shadow: 5px 5px 20px #585c68cd ;
 }
 
 .resume .resume_left {
@@ -47,7 +48,6 @@ body {
 .resume .resume_left .resume_profile img {
   width: auto;
   height: 105%;
-  
 }
 
 .resume .resume_left .resume_content {
@@ -133,13 +133,15 @@ body {
   width: 15%;
 }
 
+/* barra de progresso: 
 .resume .resume_left .resume_skills ul li .skill_progress span {
   position: absolute;
   top: 0;
   left: 0;
   height: 100%;
   background: #fff;
-}
+} */
+
 
 .resume .resume_left .resume_social .semi-bold {
   color: #fff;
