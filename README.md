@@ -1,1 +1,5 @@
-# curriculo-
+# curriculo
+
+## Olá! 
+## Você pode acessar meu currículo pelo link: 
+https://luana-ns.github.io/curriculo/ 
